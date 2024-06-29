@@ -1,0 +1,21 @@
+{
+  "name": "angeliszotis/user-auth",
+  "description": "A simple user authentication package with MongoDB, salt, and pepper.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Angelis Zotis",
+      "email": "aggeliszotis@protonmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.1",
+    "mongodb/mongodb": "^1.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "AngelisZotis\\UserAuth\\": "src/"
+    }
+  }
+}
