@@ -1,5 +1,7 @@
 <?php
-
+/*
+ * testing composer
+ */
 namespace AngelisZotis\UserAuth;
 
 use MongoDB\Client;
