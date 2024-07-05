@@ -1,6 +1,6 @@
 <?php
 /*
- * testing composer
+ * testing composer branch
  */
 namespace AngelisZotis\UserAuth;
 
